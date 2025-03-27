@@ -1,6 +1,6 @@
 {
     "name": "cadetdmb/html",
-    "version": "1.0.0",
+    "version": "v1.0.0",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
@@ -42,15 +42,6 @@
     "extra": {
         "branch-alias": {
             "dev-master": "6.x-dev"
-        },
-        "laravel": {
-            "providers": [
-                "Collective\\Html\\HtmlServiceProvider"
-            ],
-            "aliases": {
-                "Form": "Collective\\Html\\FormFacade",
-                "Html": "Collective\\Html\\HtmlFacade"
-            }
         }
     },
     "minimum-stability": "dev",
