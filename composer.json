@@ -1,5 +1,6 @@
 {
-    "name": "laravelcollective/html",
+    "name": "cadetdmb/html",
+    "version": "1.0.0",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
@@ -7,7 +8,6 @@
         "issues": "https://github.com/LaravelCollective/html/issues",
         "source": "https://github.com/LaravelCollective/html"
     },
-    "version": "1.0.0",
     "authors": [
         {
             "name": "Adam Engebretson",
